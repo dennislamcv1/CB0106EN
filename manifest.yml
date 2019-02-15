@@ -1,0 +1,7 @@
+---
+applications:
+- name: hotelsdk
+  host: hotelsdk
+  domain: mybluemix.net
+  instances: 1
+  memory: 256M
